@@ -1,0 +1,27 @@
+.show_on_print{
+    display:none;
+}
+
+@media print
+{
+    body{
+        -webkit-print-color-adjust: exact!important;
+    }
+    .hide_on_print{
+        display:none;
+    }
+    .show_on_print{
+        display:block!important;
+    }
+    table thead tr td {
+        -webkit-print-color-adjust: exact!important;
+        font-weight: 700;
+        color:#000000!important;
+    }
+    table tr td{
+        -webkit-print-color-adjust: exact!important;
+        padding:5px!important;
+        color:#000000!important;
+    }
+
+}

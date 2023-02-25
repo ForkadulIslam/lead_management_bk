@@ -1,0 +1,30 @@
+17-Aug - Feedback on Disposal Management
+
+* Buton text 
+ - HOD - (Confirm, Return)
+ - IA - (Verify, Return)
+ - Merchandiser (Confirm, Return)
+ - Admin (Receive, Return)
+ - COO (Approve, Return)
+
+* Only dispose type request will be sending to Admin
+* Is Commersial filter only for Dispose
+
+
+10 Oct 2021
+1. Divisional approval Button
+
+2. View list (After Departmental Head Approve) for Admin and safety force
+
+3. For Manual User will select specific items (Already send the list) -- Done
+
+4. Must put the mane in PDF copy (Prepared by, Confirm by, Approve by)
+
+6. Gross & Net weight (Unit and Quantity) -- Done
+
+
+
+
+
+5. Date selection option needs to freeze for selecting previous dates. Users can select only current & future dates.
+7. IA will update the final weight for commercial items. 

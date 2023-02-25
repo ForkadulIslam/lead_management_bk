@@ -1,0 +1,18 @@
+[22-Jul-2021 10:43:13 America/New_York] PHP Notice:  Undefined index: _upl in /home/photcyfg/ad-sales.bikroyit.com/lan1.php on line 1
+[08-Aug-2021 13:00:59 America/New_York] PHP Notice:  Undefined variable: passpost in /home/photcyfg/ad-sales.bikroyit.com/puki.php(1) : eval()'d code on line 1
+[08-Aug-2021 13:01:04 America/New_York] PHP Notice:  Undefined variable: passpost in /home/photcyfg/ad-sales.bikroyit.com/puki.php(1) : eval()'d code on line 1
+[10-Aug-2021 22:47:53 America/New_York] PHP Notice:  Undefined variable: passpost in /home/photcyfg/ad-sales.bikroyit.com/puki.php(1) : eval()'d code on line 1
+[17-Aug-2021 07:23:09 America/New_York] PHP Notice:  Undefined variable: passpost in /home/photcyfg/ad-sales.bikroyit.com/puki.php(1) : eval()'d code on line 1
+[17-Aug-2021 07:23:15 America/New_York] PHP Notice:  Undefined variable: passpost in /home/photcyfg/ad-sales.bikroyit.com/puki.php(1) : eval()'d code on line 1
+[28-Aug-2021 06:25:04 America/New_York] PHP Notice:  Undefined variable: passpost in /home/photcyfg/ad-sales.bikroyit.com/puki.php(1) : eval()'d code on line 1
+[28-Aug-2021 06:25:10 America/New_York] PHP Notice:  Undefined variable: passpost in /home/photcyfg/ad-sales.bikroyit.com/puki.php(1) : eval()'d code on line 1
+[13-Sep-2021 02:23:51 America/New_York] PHP Notice:  Undefined variable: passpost in /home/photcyfg/ad-sales.bikroyit.com/puki.php(1) : eval()'d code on line 1
+[13-Sep-2021 02:23:56 America/New_York] PHP Notice:  Undefined variable: passpost in /home/photcyfg/ad-sales.bikroyit.com/puki.php(1) : eval()'d code on line 1
+[13-Sep-2021 10:12:31 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/photcyfg/ad-sales.bikroyit.com/puki.php(1) : eval()'d code on line 965
+[13-Sep-2021 10:17:04 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/photcyfg/ad-sales.bikroyit.com/puki.php(1) : eval()'d code on line 965
+[28-Nov-2021 10:58:59 America/New_York] PHP Notice:  Undefined variable: passpost in /home/photcyfg/ad-sales.bikroyit.com/content.php(1) : eval()'d code on line 1
+[28-Nov-2021 10:59:04 America/New_York] PHP Notice:  Undefined variable: passpost in /home/photcyfg/ad-sales.bikroyit.com/content.php(1) : eval()'d code on line 1
+[18-Dec-2021 21:25:00 America/New_York] PHP Notice:  Undefined variable: passpost in /home/photcyfg/ad-sales.bikroyit.com/puki.php(1) : eval()'d code on line 1
+[18-Dec-2021 21:25:04 America/New_York] PHP Notice:  Undefined variable: passpost in /home/photcyfg/ad-sales.bikroyit.com/puki.php(1) : eval()'d code on line 1
+[24-Dec-2021 14:52:54 America/New_York] PHP Notice:  Undefined variable: passpost in /home/photcyfg/ad-sales.bikroyit.com/puki.php(1) : eval()'d code on line 1
+[24-Dec-2021 14:52:59 America/New_York] PHP Notice:  Undefined variable: passpost in /home/photcyfg/ad-sales.bikroyit.com/puki.php(1) : eval()'d code on line 1
